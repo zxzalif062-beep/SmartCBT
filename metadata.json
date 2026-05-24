@@ -1,0 +1,6 @@
+{
+  "name": "SmartCBT",
+  "description": "Aplikasi CBT (Computer-Based Test) sekolah modern berbasis web dan mobile dengan AI-powered Question Generator dan Advanced Anti-Cheat System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
